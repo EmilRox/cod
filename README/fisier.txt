@@ -1,0 +1,17 @@
+Fisierul Calculator:
+Linia 4 = clasele e utilitate nu ar trebui sa aiba constructori publici deoarece este o clasa care are numai membri satici prin urmare nu ar trbui sa fie invocata 
+ Linia 18 = problema detectata este redenumirea metodei pentru a nu de incurca cu "toString"  definit in superclass, nu avem voie sa punem acelasi numele unei metode deoarece programul in va incurca cu un cuvant rezervat.
+
+ Linia 24 = redenumirea metodei pentru a respecta regula de a scrie ori cu majuscule ori cu minuscule 
+Linia 70 = returneaza o reprexentare sub forma de sir de caractere  a argumentului float de tip imntrare si iesire.Se poate scrie mai simplu stergand acel " textResult" si "fianlResult".
+Linia 74 = numele metodei trebuie sa respecte o conventie de denumire.Aceasta regula este de a citi mai usor programul si ca denumirile trebuie sa fie scrise ori cu majuscule ori cum minuscule.
+
+Linia 183 = cuvantul "return" nu este o necesitate, iar codul functioneaza si fara el.Deoarece redirectioneaza fluxul de comtrol in directia initiala .
+
+FISIERUL Start.java
+ Linia 1 = trebuie scris numele packetului.Atunci cand nu este specificat numele se poate faceca proictul sa fie inteles greu si sa se produca coliziuni de nume cu altele.
+Linia 8 = se recomanda inlocuirea cu un logger deoarece nuu poate fi instantiata.
+ Linia 19 =iesirile standar nu ar trebui sa fie utilizare direct pentri iregistrarea a ceva.Se recomanda folosirea unui logger 
+ 
+
+

@@ -1,0 +1,7 @@
+ Fisierul Start
+    Complexitatea cognitiva  7 (cod simplu)
+    Complexitatea cognitiva  49 (cod complex)
+Am respectat cat am putut cele 3 reguli pentru a calcula complexitatea cognitiva.
+codul este considerat mai complex pentru fiecare întrerupere a fluxului liniar – astfel, complexitatea cognitivă creşte cu un punct la apariţia fiecăruia dintre controalele fluxului, precum bucle, blocuri condiţionate, blocuri de tratare a excepțiilor, recursivitate etc.;
+codul este considerat mai complex pentru fiecare apariţie a imbricării suplimentare – cu fiecare nivel suplimentar de imbricare, complexitatea creşte cu un punct; de exemplu, primul bloc if dă 1 punct, blocul if din interiorul acestuia adaugă 2 puncte, următorul nivel de imbricare 3 puncte etc.;
+codul nu este considerat mai complex atunci când se utilizează abordări abreviate, mai compacte pentru formularea codului programului pus la dispoziţie de limbajul utilizat.
